@@ -9,3 +9,5 @@ wikipedia
 langchain-text-splitters
 arxiv 
 langchain-openai
+beautifulsoup4
+faiss-cpu
